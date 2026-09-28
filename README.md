@@ -1,3 +1,5 @@
+> **This repository has moved.** It now lives in the folder [`ghost-blog-linkedin-content-engine-kit`](https://github.com/florianrolke/community-resources/tree/main/ghost-blog-linkedin-content-engine-kit) of [florianrolke/community-resources](https://github.com/florianrolke/community-resources), together with all of Florian Rolke's community resources. This copy is archived (read-only) and stays online so existing links keep working. New fixes and updates happen in community-resources.
+
 # Ghost Content Engine Kit
 
 A public-ready starter kit for self-hosted Ghost blogs that turn source material into SEO/AEO-friendly posts.
